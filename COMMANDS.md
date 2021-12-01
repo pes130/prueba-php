@@ -57,5 +57,5 @@ Print to the console the content of the file specified by hash ```<HASH>``` in h
 Print to the console the type of the file specified by hash ```<HASH>``` in human-readable format. Possibilities: tree; blob; commit; annotated tag.
 
 
-
+--
 
